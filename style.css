@@ -25,3 +25,67 @@ left:150px;
 height:25px;
 bottom:15px;
 }
+
+.video{
+  position: relative;
+  left: 50px;
+}
+
+.title{
+  position: relative;
+  left: 50px;
+}
+
+.like{
+  position: relative;
+  left: 600px;
+  bottom: 20px;
+}
+
+.dislike{
+  position: relative;
+  left: 605px;
+  bottom: 20px;
+}
+
+.share{
+  position: relative;
+  left: 610px;
+  bottom: 30px;
+}
+
+.viewers {
+  position: relative;
+  left: 50px;
+  bottom: 35px;
+}
+
+.line{
+  position: relative;
+  left: 50px;
+  width: 700px;
+}
+
+.avatar{
+  position: relative;
+  left: 50px;
+  border-radius: 100%;
+}
+
+.sub-btn{
+  position: relative;
+  left: 655px;
+  bottom: 70px;
+}
+
+.artist{
+  position: relative;
+  left: 100px;
+  bottom: 40px;
+}
+
+.subs{
+  position: relative;
+  left: 100px;
+  bottom: 40px;
+}
