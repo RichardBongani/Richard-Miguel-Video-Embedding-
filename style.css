@@ -1,6 +1,12 @@
 *{
     margin: 0;
     padding:0;
+    
+}
+
+.main-logo{
+    position: relative;
+    left:50px;
 }
 
 /*-----------navigation bar---------*/
@@ -58,6 +64,7 @@ bottom:15px;
   position: relative;
   left: 50px;
   bottom: 35px;
+  color: grey;
 }
 
 .line{
@@ -88,4 +95,48 @@ bottom:15px;
   position: relative;
   left: 100px;
   bottom: 40px;
+}
+
+.column {
+    float:right;
+    width:30%;
+    height:250px;
+    padding:10px;
+    position: relative;
+    bottom: 603px;
+  
+}
+
+.row:after {
+    display:table;
+    clear:both;
+    content:"";
+}
+
+.recomended{
+    width:150px;
+    height:90px;
+    border-radius: 10%;
+}
+
+.recomended-title{
+    position: relative;
+    bottom:70px;
+    text-decoration: none;
+}
+
+.views{
+     position: relative;
+     left:45%;
+     bottom: 60px;
+}
+
+.description{
+    position: relative;
+    bottom:20px;
+    left:65px;
+}
+
+.artist-link{
+    text-decoration: none;
 }
