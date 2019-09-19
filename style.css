@@ -99,7 +99,7 @@ bottom:15px;
 
 .column {
     float:right;
-    width:30%;
+    width:40%;
     height:250px;
     padding:10px;
     position: relative;
@@ -118,20 +118,20 @@ bottom:15px;
     height:90px;
     border-radius: 10%;
     position: relative;
-    right: 150px;
+    right: 20px;
     bottom: 15px;
 }
 
 .recomended-title{
     position: relative;
     bottom:70px;
-    right:150px;
+    right:20px;
     text-decoration: none;
 }
 
 .views{
      position: relative;
-     left:10px;
+     left:25%;
      bottom: 65px;
 }
 
@@ -144,3 +144,6 @@ bottom:15px;
 .artist-link{
     text-decoration: none;
 }
+
+
+
