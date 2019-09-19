@@ -117,18 +117,22 @@ bottom:15px;
     width:150px;
     height:90px;
     border-radius: 10%;
+    position: relative;
+    right: 150px;
+    bottom: 15px;
 }
 
 .recomended-title{
     position: relative;
     bottom:70px;
+    right:150px;
     text-decoration: none;
 }
 
 .views{
      position: relative;
-     left:45%;
-     bottom: 60px;
+     left:10px;
+     bottom: 65px;
 }
 
 .description{
