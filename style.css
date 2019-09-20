@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding:0;
-    
+
 }
 
 .main-logo{
@@ -18,7 +18,7 @@
     padding-top:2px;
     padding-right:15px;
     width:40px;
-    height:35px; 
+    height:35px;
 }
 
 .search_bar{
@@ -51,12 +51,16 @@ bottom:15px;
   position: relative;
   left: 600px;
   bottom: 20px;
+  width:45px;
+  height:30px;
 }
 
 .dislike{
   position: relative;
   left: 605px;
   bottom: 20px;
+  width:40px;
+  height:20px;
 }
 
 .share{
@@ -82,6 +86,8 @@ bottom:15px;
   position: relative;
   left: 50px;
   border-radius: 100%;
+  width:40px;
+  height:40px;
 }
 
 .sub-btn{
@@ -109,7 +115,7 @@ bottom:15px;
     padding:10px;
     position: relative;
     bottom: 603px;
-  
+
 }
 
 .row:after {
@@ -149,6 +155,3 @@ bottom:15px;
 .artist-link{
     text-decoration: none;
 }
-
-
-
