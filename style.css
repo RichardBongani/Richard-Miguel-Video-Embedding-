@@ -11,14 +11,15 @@
     height:45px;
 }
 
+
 /*-----------navigation bar---------*/
 .icons{
     float:right;
     margin:5px;
     padding-top:2px;
     padding-right:15px;
-    width:40px;
-    height:35px;
+    width:30px;
+    height:25px;
 }
 
 .search_bar{
@@ -40,6 +41,7 @@ bottom:15px;
 .video{
   position: relative;
   left: 50px;
+
 }
 
 .title{
@@ -49,7 +51,7 @@ bottom:15px;
 
 .like{
   position: relative;
-  left: 600px;
+  left: 825px;
   bottom: 20px;
   width:45px;
   height:30px;
@@ -57,7 +59,7 @@ bottom:15px;
 
 .dislike{
   position: relative;
-  left: 605px;
+  left: 820px;
   bottom: 20px;
   width:40px;
   height:20px;
@@ -65,7 +67,7 @@ bottom:15px;
 
 .share{
   position: relative;
-  left: 610px;
+  left: 820px;
   bottom: 30px;
 }
 
@@ -79,7 +81,7 @@ bottom:15px;
 .line{
   position: relative;
   left: 50px;
-  width: 700px;
+  width: 900px;
 }
 
 .avatar{
@@ -92,7 +94,7 @@ bottom:15px;
 
 .sub-btn{
   position: relative;
-  left: 655px;
+  left: 820px;
   bottom: 70px;
 }
 
@@ -110,7 +112,7 @@ bottom:15px;
 
 .column {
     float:right;
-    width:40%;
+    width:22%;
     height:250px;
     padding:10px;
     position: relative;
@@ -125,25 +127,27 @@ bottom:15px;
 }
 
 .recomended{
-    width:150px;
-    height:90px;
+    width:170px;
+    height:110px;
     border-radius: 10%;
     position: relative;
-    right: 20px;
-    bottom: 15px;
+    right: 35px;
+    bottom: 90px;
+    margin: -10px;
+    
 }
 
 .recomended-title{
     position: relative;
-    bottom:70px;
-    right:20px;
+    bottom:150px;
+    right:25px;
     text-decoration: none;
 }
 
 .views{
      position: relative;
-     left:25%;
-     bottom: 65px;
+     left:130px;
+     bottom: 150px;
 }
 
 .description{
