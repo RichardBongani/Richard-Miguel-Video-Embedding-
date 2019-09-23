@@ -1,2 +1,2 @@
 # Richard-Miguel-Video-Embedding-
-Creating a site that looks like Youtube.
+Creating a site that is similar to Youtube when you are watching a video.
